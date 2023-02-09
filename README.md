@@ -2,11 +2,8 @@
 
 O objetivo deste projeto foi aprender conceitos básicos sobre git e github.
 
-| :placard: Vitrine.Dev |     |
-| -------------  | --- |
-| :sparkles: Daiana        | **alura-git**
-| :label: Tecnologias | git, github, git bash
-| :mortar_board: certificado     | 🎓
+| :sparkles: Daiana        | **alura-git** 
+| :label: Tecnologias | git, github, git bash |
 
 ---
 
