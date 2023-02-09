@@ -8,9 +8,6 @@ O objetivo deste projeto foi aprender conceitos básicos sobre git e github.
 | :label: Tecnologias | git, github, git bash
 | :mortar_board: certificado     | 🎓
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
-
 ---
 
 ## Detalhes do projeto
